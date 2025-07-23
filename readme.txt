@@ -29,7 +29,7 @@ You can only cancel a booking if it is 48 hours before the departure date of the
 
 Here is an example of how to send an appropriate url:
 
-1. http://sc20j2h.pythonanywhere.com/smash_airline/BCN/LGW/2023-06-10/Economy/1/0
-2. http://sc20j2h.pythonanywhere.com/smash_airline/E15/A2
-3. http://sc20j2h.pythonanywhere.com/booking/71 (put the booking id returned)
-4. http://sc20j2h.pythonanywhere.com/smash_airline/booking/cancel/71 (put the booking id returned)
+1. http://jhalfpennycodes.pythonanywhere.com/smash_airline/BCN/LGW/2023-06-10/Economy/1/0
+2. http://jhalfpennycodes.pythonanywhere.com/smash_airline/E15/A2
+3. http://jhalfpennycodes.pythonanywhere.com/booking/71 (put the booking id returned)
+4. http://jhalfpennycodes.pythonanywhere.com/smash_airline/booking/cancel/71 (put the booking id returned)
