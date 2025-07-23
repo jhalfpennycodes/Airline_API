@@ -1,3 +1,5 @@
+⚠️ This project is for demonstration purposes only and not intended for production use.
+
 Setup:
 Cd into Airline_API
 Run: python manage.py runserver
