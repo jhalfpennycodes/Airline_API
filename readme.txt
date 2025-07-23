@@ -2,9 +2,6 @@ Setup:
 Cd into Airline_API
 Run: python manage.py runserver
 
-Domain: sc20j2h.pythonanywhere.com
-Password: COMP3011
-
 Information about the database:
 
 There are only 5 flights available:
